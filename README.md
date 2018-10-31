@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### goboilerplate description
+## goboilerplate description
 
 This is a react boilerplate stripped and designed for a highly scalable react app using
 flux, sagas and router technologies as basic building blocks
